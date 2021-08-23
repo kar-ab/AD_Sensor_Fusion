@@ -8,7 +8,7 @@ Using deep neural networks for fusing sensor information to solve complex percep
 #### 2. How to fuse? 
 #### 3. When to fuse? 
 
-The focus of this repository to provide an example implementaion of sensor fusion. In this repository, camera and lidar are fused from KITTI dataset. Based on when to fuse, colab files for following types of sensor fusion is provided: 
+The focus of this repository to provide an example implementaion of sensor fusion. In this repository, camera and lidar are fused from KITTI dataset. Based on classififcation *when to fuse*, colab files for following types of sensor fusion is provided: 
 
 #### 1. Early Fusion:
  
@@ -24,7 +24,11 @@ In late fusion, first decision outputs (like object detection) from each modalit
 Colab_file_link: 
 
 
-References: 
+## References:
 
-1. https://arxiv.org/pdf/1807.02323.pdf
-2. https://arxiv.org/pdf/1902.07830.pdf
+1. [Optimal Sensor Data Fusion Architecture for Object Detection in Adverse Weather Conditions](https://arxiv.org/pdf/1807.02323.pdf)
+2. [Deep Multi-modal Object Detection and Semantic Segmentation for Autonomous Driving: Datasets, Methods, and Challenges](https://arxiv.org/pdf/1902.07830.pdf)
+3. [Vision meets Robotics: The KITTI Dataset](http://www.cvlibs.net/publications/Geiger2013IJRR.pdf)
+
+## Acknowledgement :pray:
+- [KITTI Dataset Team](http://www.cvlibs.net/datasets/kitti/)
