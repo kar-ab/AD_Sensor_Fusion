@@ -2,7 +2,7 @@
 
 For Autonomous Driving, it’s a well established fact that a single sensor cannot provide ‘all-in-one’ capabilities. Each sensor has its own drawbacks and hence fusing sensors to complement each other becomes vital. 
 	
-Using deep neural networks for fusing sensor information to solve complex perception tasks is still an active reserach quesion in Autonomous Driving. In [1](https://arxiv.org/pdf/1902.07830.pdf), a complete outline on different classification for sensor fusion, enlisted below, is discussed. 
+Using deep neural networks for fusing sensor information to solve complex perception tasks is still an active reserach quesion in Autonomous Driving. In [[1]](https://arxiv.org/pdf/1902.07830.pdf), a complete outline on different classification for sensor fusion, enlisted below, is discussed. 
 
 #### 1. What sensors to fuse?
 #### 2. How to fuse? 
