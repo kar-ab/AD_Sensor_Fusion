@@ -26,8 +26,8 @@ Colab_file_link:
 
 ## References:
 
-1. [Optimal Sensor Data Fusion Architecture for Object Detection in Adverse Weather Conditions](https://arxiv.org/pdf/1807.02323.pdf)
-2. [Deep Multi-modal Object Detection and Semantic Segmentation for Autonomous Driving: Datasets, Methods, and Challenges](https://arxiv.org/pdf/1902.07830.pdf)
+1. [Deep Multi-modal Object Detection and Semantic Segmentation for Autonomous Driving: Datasets, Methods, and Challenges](https://arxiv.org/pdf/1902.07830.pdf)
+2. [Optimal Sensor Data Fusion Architecture for Object Detection in Adverse Weather Conditions](https://arxiv.org/pdf/1807.02323.pdf)
 3. [Vision meets Robotics: The KITTI Dataset](http://www.cvlibs.net/publications/Geiger2013IJRR.pdf)
 
 ## Acknowledgement :pray:
