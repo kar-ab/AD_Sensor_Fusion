@@ -32,3 +32,5 @@ Colab_file_link:
 
 ## Acknowledgement :pray:
 - [KITTI Dataset Team](http://www.cvlibs.net/datasets/kitti/)
+- repository https://github.com/kuixu/kitti_object_vis.
+- repository https://github.com/charlesq34/frustum-pointnets/blob/master/kitti/kitti_util.py
