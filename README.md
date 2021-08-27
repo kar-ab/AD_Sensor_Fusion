@@ -1,5 +1,7 @@
 # AD_Sensor_Fusion
 
+## this project is still in its nascent stage, so heavy changes are expected and you may find the coding might not be upto appropriate standard
+
 For Autonomous Driving, it’s a well established fact that a single sensor cannot provide ‘all-in-one’ capabilities. Each sensor has its own drawbacks and hence fusing sensors to complement each other becomes vital. 
 	
 Using deep neural networks for fusing sensor information to solve complex perception tasks is still an active research quesion in Autonomous Driving. In [[1]](https://arxiv.org/pdf/1902.07830.pdf), a complete outline on different classification for sensor fusion (enlisted below), is discussed. 
