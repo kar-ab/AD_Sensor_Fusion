@@ -1,6 +1,6 @@
 # AD_Sensor_Fusion
 
-## this project is still in its nascent stage, so heavy changes are expected and you may find the coding might not be upto appropriate standard
+#### this project is still in its nascent stage, so heavy changes are expected and you may find the coding might not be upto appropriate standard
 
 For Autonomous Driving, it’s a well established fact that a single sensor cannot provide ‘all-in-one’ capabilities. Each sensor has its own drawbacks and hence fusing sensors to complement each other becomes vital. 
 	
