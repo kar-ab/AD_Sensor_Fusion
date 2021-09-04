@@ -16,7 +16,7 @@ The focus of this repository to provide an example implementaion of sensor fusio
  
 Raw data from multiple sensors are fused before any processing is carried out. Fused data are given as input to neural networks, and so, Input dimension to the neural network will be in the more than 3 dimensions, (RGB channels and fused lidar data). A network feature encoder at input creates feature map and perception taks such as object detection can be carried out in further stages. Neural networks learn form the weaknesses and strengths of each modalities and provide a final output. 
 
-[Colab_file](./Kitti_Early_Sensor_Fusion.ipynb)
+[Colab_file](./Kitti_Early_Sensor_fusion.ipynb)
 
 
 #### 2. Later Fusion:
