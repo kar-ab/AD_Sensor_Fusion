@@ -16,14 +16,14 @@ The focus of this repository to provide an example implementaion of sensor fusio
  
 Raw data from multiple sensors are fused before any processing is carried out. Fused data are given as input to neural networks, and so, Input dimension to the neural network will be in the more than 3 dimensions, (RGB channels and fused lidar data). A network feature encoder at input creates feature map and perception taks such as object detection can be carried out in further stages. Neural networks learn form the weaknesses and strengths of each modalities and provide a final output. 
 
-Colab_file_link: 
+[Colab_file](./Kitti_Early_Sensor_Fusion.ipynb)
 
 
 #### 2. Later Fusion:
 
 In late fusion, first decision outputs (like object detection) from each modality is combined and then provided to a neural network. One of the most common approach is to fuse bounding boxes from lidar and camera data, later achieve a final bounding box for each object in question. Since there is lots of advancement on detecting bounding boxes in lidar and camera data individually, this provides a head-start for implementing late fusion. 
 
-Colab_file_link: 
+[Colab_file](./Kitti_Late_Sensor_Fusion.ipynb)
 
 
 ## References:
