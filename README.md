@@ -33,7 +33,7 @@ In late fusion, first decision outputs (like object detection) from each modalit
 3. [Vision meets Robotics: The KITTI Dataset](http://www.cvlibs.net/publications/Geiger2013IJRR.pdf)
 
 ## Acknowledgement :pray:
-- [Sensor Fusion](https://github.com/Jeremy26/visual_fusion_course)
+- [Visual Fusion](https://github.com/Jeremy26/visual_fusion_course)
 - [KITTI Dataset Team](http://www.cvlibs.net/datasets/kitti/)
 - repository https://github.com/kuixu/kitti_object_vis
 - repository https://github.com/charlesq34/frustum-pointnets/blob/master/kitti/kitti_util.py
